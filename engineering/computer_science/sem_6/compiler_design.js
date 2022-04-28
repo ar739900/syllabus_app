@@ -1,11 +1,11 @@
 module.exports = course = {
     outline:
-        '',
+        'Lab topics are the hands on experiment based on the module content of theory subject',
     objecttives: [
         ' To understand and list the different stages in the process of compilation. \n Identify different methods of lexical analysis \n Design top-down and bottom-up parsers \n Identify synthesized and inherited attributes \n Develop syntax directed translation schemes \n Develop algorithms to generate code for a target machine \n To study the underlying theories in designing of a compiler \n The study especially consider the imperative languages ',
     ],
-    name: 'Compiler Design',
-    code: 'PCC CS 601',
+    name: 'Compiler Design \n Compiler Design lab',
+    code: 'PCC CS 601 & PCC CS 601P',
     credits: 5,
     content: [
         {
